@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2>I'm Daniel.</h2>
+### Hello there, I'm Daniel. 👋
 
 <h3> 💻 &nbsp;About Me </h3>
 
