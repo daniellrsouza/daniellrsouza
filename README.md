@@ -2,7 +2,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Software Engineer and an IT enthusiast passionated about technologies.
+- 🤔 &nbsp; Software Engineer.
+- :nerd_face: &nbsp; IT enthusiast passionated about technologies
 - 🎓 &nbsp; Studying Information Systems at Centro Universitário FIAP.
 
 
