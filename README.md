@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Software Engineer.
 - :nerd_face: &nbsp; IT enthusiast passionated about technologies
-- 🎓 &nbsp; Studying Information Systems at Centro Universitário FIAP.
+- 🎓 &nbsp; Graduated in Information Systems at Centro Universitário FIAP.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
