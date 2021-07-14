@@ -1,8 +1,8 @@
-### Hello there, I'm Daniel. 👋
+### Hello there, I'm Daniel! 👋
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Software Engineer.
+- 🤔 &nbsp; Senior Front-end Developer.
 - :nerd_face: &nbsp; IT enthusiast passionated about technologies
 - 🎓 &nbsp; Graduated in Information Systems at Centro Universitário FIAP.
 
