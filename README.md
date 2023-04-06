@@ -2,9 +2,9 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Senior Front-end Developer.
+- 🤔 &nbsp; Lead Front-end
 - :nerd_face: &nbsp; IT enthusiast passionated about technologies
-- 🎓 &nbsp; Graduated in Information Systems at Centro Universitário FIAP.
+- 🎓 &nbsp; Graduated in Information Systems at Centro Universitário FIAP
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
