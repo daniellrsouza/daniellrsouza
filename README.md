@@ -2,7 +2,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Lead Front-end
+- 🤔 &nbsp; Software Developer & Architect
 - :nerd_face: &nbsp; IT enthusiast passionated about technologies
 - 🎓 &nbsp; Graduated in Information Systems at Centro Universitário FIAP
 
