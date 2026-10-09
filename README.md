@@ -5,8 +5,9 @@
 <p align="left">
   Sou <strong>Especialista em Desenvolvimento e Arquiteto de Software</strong>, com atuação em arquitetura de software, liderança técnica e construção de aplicações corporativas.<br><br>
   Minha stack principal é <strong>TypeScript, JavaScript, Node.js e AWS</strong>, com experiência em <strong>React, Next.js e Angular</strong>. Trabalho com sistemas distribuídos, microsserviços e arquiteturas orientadas a eventos, conectando implementação, decisões arquiteturais e evolução das práticas de engenharia.<br><br>
-  Atualmente, atuo na modernização de aplicações, integração de sistemas e melhoria de observabilidade, segurança e desempenho. Também desenvolvo o <strong>Mondu</strong>, um aplicativo de gestão financeira pessoal e compartilhada.<br><br>
+  Atualmente, atuo na modernização de aplicações, integração de sistemas e melhoria de observabilidade, segurança e desempenho. Exploro o uso de <strong>IA no desenvolvimento de software</strong> para apoiar a implementação, as revisões de código e a automação de tarefas de engenharia. Também desenvolvo o <strong>Mondu</strong>, um aplicativo de gestão financeira pessoal e compartilhada.<br><br>
   🎓 Graduado em <strong>Sistemas de Informação pela FIAP</strong>.<br>
+  📚 <strong>Pós-graduação em Arquitetura de Software</strong>.<br>
   🌱 Aprofundando conhecimentos em <strong>Kubernetes, infraestrutura como código e IA aplicada ao desenvolvimento</strong>.
 </p>
 
