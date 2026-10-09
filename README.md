@@ -1,44 +1,42 @@
-### Hello there, I'm Daniel! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400" align="right">
 
-<h3> 💻 &nbsp;About Me </h3>
+### Oi, eu sou o Daniel! 👋
 
-- 🤔 &nbsp; Software Developer & Architect
-- :nerd_face: &nbsp; IT enthusiast passionated about technologies
-- 🎓 &nbsp; Graduated in Information Systems at Centro Universitário FIAP
-
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 🌐 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma&logoColor=563D7C)
-- :iphone: &nbsp;
-  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellrsouza&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniellrsouza&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
+<p align="left">
+  Sou <strong>Especialista em Desenvolvimento e Arquiteto de Software</strong>, com atuação em arquitetura de software, liderança técnica e construção de aplicações corporativas.<br><br>
+  Minha stack principal é <strong>TypeScript, JavaScript, Node.js e AWS</strong>, com experiência em <strong>React, Next.js e Angular</strong>. Trabalho com sistemas distribuídos, microsserviços e arquiteturas orientadas a eventos, conectando implementação, decisões arquiteturais e evolução das práticas de engenharia.<br><br>
+  Atualmente, atuo na modernização de aplicações, integração de sistemas e melhoria de observabilidade, segurança e desempenho. Também desenvolvo o <strong>Mondu</strong>, um aplicativo de gestão financeira pessoal e compartilhada.<br><br>
+  🎓 Graduado em <strong>Sistemas de Informação pela FIAP</strong>.<br>
+  🌱 Aprofundando conhecimentos em <strong>Kubernetes, infraestrutura como código e IA aplicada ao desenvolvimento</strong>.
 </p>
 
+<p align="left">
+  💻 <strong>Linguagens:</strong> TypeScript, JavaScript, Python, Java, HTML e CSS.
+</p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://www.linkedin.com/in/daniel-lucas-rodrigues-souza/"><img src="https://img.shields.io/badge/-Daniel%20Souza-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<p align="left">
+  💼 <strong>Frameworks e ferramentas:</strong><br>
+  <strong>Backend:</strong> Node.js, Fastify, NestJS, Express e FastAPI.<br>
+  <strong>Frontend e mobile:</strong> React, Next.js, Angular, React Native e Expo.<br>
+  <strong>Dados:</strong> MongoDB, Amazon DocumentDB, PostgreSQL, MySQL e Prisma.<br>
+  <strong>Cloud e DevOps:</strong> AWS, Docker, Terraform, Git, GitHub, Azure DevOps e CI/CD.<br>
+  <strong>Qualidade e observabilidade:</strong> Jest, Fortify on Demand, OpenTelemetry e CloudWatch.<br>
+  <strong>Experiência complementar com SAP:</strong> também atuo em projetos de modernização e integração com SAP BTP, CAP, UI5 e OData, mantendo meu foco principal no ecossistema JavaScript/TypeScript e AWS.
+</p>
 
+<p align="left">
+  💡 Valorizo código legível, soluções pragmáticas e compartilhamento de conhecimento. Meu trabalho combina desenvolvimento, arquitetura e orientação de pessoas para construir software sustentável.
+</p>
 
+<p align="left">
+  💌 Vamos conversar sobre tecnologia, arquitetura e oportunidades de colaboração? ⤵️
+</p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-lucas-rodrigues-souza/" title="Conecte-se comigo no LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/daniellrsouza?tab=repositories" title="Explore meus projetos no GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
